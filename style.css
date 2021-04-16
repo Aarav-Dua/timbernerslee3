@@ -1,0 +1,66 @@
+body {
+    text-align: center;
+
+}
+
+#meisame {
+    width: 250px;
+    border-radius: 50%;
+}
+
+#welcome {
+    background-color: cyan;
+    padding: 70px
+}
+
+h1 {
+    font-size: 40px;
+    color: brown;
+    font-family: 'Redressed', cursive;
+}
+
+#me {
+    font-size: 60px;
+}
+
+h2 {
+    color: brown;
+    font-family: 'Redressed', cursive;
+}
+
+p {
+    font-family: 'Redressed', cursive;
+    line-height: 2.3;
+    color: brown;
+    font-weight: bold;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    font-family: 'Redressed', cursive;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    width: 100%;
+    background-color: chartreuse;
+}
+
+.links {
+    display: inline;
+    color: brown;
+    font-size: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.links:hover {
+    background-color: fuchsia;
+    font-size: 40px;
+}
+#writng {
+    font-size: 40px;
+    font-family: 'Redressed', cursive;
+}
